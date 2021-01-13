@@ -1,13 +1,13 @@
 ---
-name: John Doe
-username: johndoe
-bio: "Hi I a John, a Web Developer and Designer."
-site: http://johndoe.com
-avatar: johndoe.png
-email: mail@johndoe.com
+name: taylor
+username: taylor
+bio: "이준태입니다."
+site: http://taylor-JuN.github.io
+avatar: taylor.png
+email: taylor-JuN@gmail.com
 social:
     - title: "github"
-      url: "https://github.com/johndoe"
+      url: "https://github.com/taylor-JuN"
     - title: "linkedin"
       url: "https://www.linkedin.com/in/johndoe"
     - title: "youtube"
